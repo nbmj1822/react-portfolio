@@ -4,7 +4,7 @@
   functions = "functions" # not strictly required but putting this for convenience
   publish = "build"
 
-#Uncomment to use this redirect for Single Page Applications like create-react-app. 
+# Uncomment to use this redirect for Single Page Applications like create-react-app. 
 Not needed for static site generators.
 [[redirects]]
   from = "/*"
